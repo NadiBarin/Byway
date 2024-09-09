@@ -1,0 +1,32 @@
+body {
+    font-family: 'inter', 'Fira Sans Condensed';
+    
+        
+        
+    
+}
+
+.container {
+    
+    
+    max-width: 1500px; 
+    margin: 0 auto;
+    color: #EDEEF0F5;
+    
+    
+    
+
+}
+
+.title-2 {
+   
+    font-weight: 500;
+    font-size: 40px;
+    color: #1C2024EB;
+    line-height: 48px;
+    font-family: 'Fira Sans Condensed';
+
+}
+
+
+

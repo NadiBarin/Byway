@@ -1,0 +1,54 @@
+.info {
+    background: #F8FAFC;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.info__list {
+    display: flex;
+    color: #0F172A;
+    column-gap: 85.5px;
+    justify-content: space-between
+    
+
+   
+    
+}
+
+.info__course {
+    display: flex;
+    
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    
+    
+}
+
+
+
+.vl {
+    border-left: 4px solid #E2E8F0;
+    height: 55px;
+    left: 50%;
+    margin-left: -3px;
+    top: 50%;
+    
+
+}    
+
+
+
+
+.desc {
+    
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 41.6px;
+
+}

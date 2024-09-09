@@ -1,0 +1,30 @@
+.card {
+    
+}
+
+.card__body {
+    padding-top:8px ;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+.card__text {
+    color: #1C2024EB;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+
+
+}
+
+.card__desc {
+    padding-top: 8px;
+    color: #1C2024B8;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
